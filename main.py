@@ -1,3 +1,5 @@
+#Instalator DCS Bios by Eldritch_514 WMFA117  
+
 import os
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QTextEdit, QFileDialog
