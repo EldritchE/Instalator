@@ -79,7 +79,6 @@ window.setLayout(layout)
 window.show()
 
 sys.exit(app.exec_())
-# W tym kodzie dodajemy obrazek na górze okna, przed etykietą z wynikami. Musisz podać ścieżkę do swojego obrazka w miejscu "your_image_path.png". Obrazek zostanie wyświetlony w oknie aplikacji. Możesz dostosować rozmiar obrazka, ustawiając odpowiednie wymiary dla pixmap.
 
 
 
